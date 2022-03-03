@@ -76,7 +76,7 @@ Display iterations from [0]: 300
        978   300 Not found
        986   300 Not found
 ```
-According to wikipedia, at 261 iterations, this is meant to be the largest number with a palindrome...
+According to [wikipedia](https://en.wikipedia.org/wiki/Palindrome), at 261 iterations, this the largest number with a palindrome...
 ```
 $ python palindrome.py
 Start integer [100]: 1999291987030606810
