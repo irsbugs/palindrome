@@ -1,6 +1,6 @@
 # palindrome
 
-The 22nd of Feb 2022 was a "palindrome" date. I.e. the date "22 02 2022" is the same whether it's read forwards or backwards.
+The 22nd of Feb 2022 was a *palindrome* date. I.e. the date "22 02 2022" is the same whether it's read forwards or backwards.
 
 There is a maths procedure for generating palindrome numbers, as follows...
 
